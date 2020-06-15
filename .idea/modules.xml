@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SearchableSpinner.iml" filepath="$PROJECT_DIR$/SearchableSpinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/SearchableSpinner-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/SearchableSpinner-sample.iml" group="SearchableSpinner/sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/com.toptoche.searchablespinner-searchablespinnerlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/searchablespinnerlibrary/com.toptoche.searchablespinner-searchablespinnerlibrary.iml" group="SearchableSpinner/searchablespinnerlibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile-project-SearchableSpinner.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile-project-SearchableSpinner.iml" group="SearchableSpinner" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/searchablespinnerlibrary/searchablespinnerlibrary.iml" filepath="$PROJECT_DIR$/searchablespinnerlibrary/searchablespinnerlibrary.iml" />
     </modules>
